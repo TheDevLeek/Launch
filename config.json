@@ -1,0 +1,19 @@
+{
+   "walletAddress": "Enter wallet address here",
+   "walletPrivateKey": "Enter private key here",
+   "exchangeRouterAddress": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+   "liquidityPairAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+   "nonBNBPairAddress": "False",
+   "bscNode": "Enter node url here",
+   "transactionRevertTimeSeconds": "10000",
+   "gasSettings": {
+      "buy_gasAmount": "1000000",
+      "buy_gasPrice": "5",
+      "approve_gasPrice": "5",
+      "sell_gasAmount": "1000000",
+      "sell_gasPrice": "5"
+   },
+   "stopLossMultiplier": "0.5",
+   "sellTokens": "True",
+   "showPoocoinPage": "False"
+}
